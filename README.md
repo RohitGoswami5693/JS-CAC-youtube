@@ -1,2 +1,2 @@
-# JS-CAC-youtube
+# Learning-JS-CAC-youtube
 Code Repo for JS learning from youtube
