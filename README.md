@@ -1,2 +1,2 @@
-# Learning-JS-CAC-youtube
+# Learning JS cHAIAURCODE
 Code Repo for JS learning from youtube channel CAC
